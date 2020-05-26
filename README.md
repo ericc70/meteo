@@ -9,7 +9,7 @@ Application météo fonctionnant avec plusieurs API
  - openweathermap pour les informations de météo
 
 
-
+  Renseignes ta clé API openweathermap à la ligne 1 du fichier js let keyOWP ='';
 
 
 
